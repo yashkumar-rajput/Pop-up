@@ -1,0 +1,17 @@
+#cross{
+    margin-left: 650px;
+    border: none;
+    background-color: bisque;
+}
+body{
+    background-color: cadetblue;
+}
+#box{
+    background-color: bisque;
+    height: 300px;
+    width: 700px;
+    visibility: hidden;
+}
+#box.show{
+    visibility: visible;
+}
